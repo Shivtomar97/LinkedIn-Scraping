@@ -4,6 +4,8 @@ The aim of this project is to scrape linkedin profile of candidates
 
 For this you need a linkedin recruiter mode!
 
+I have used Selenium, Pandas and Python for this!
+
 The code will give you everything related to the candidates profile i.e.:
 
 1. First Name
