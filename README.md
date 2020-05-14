@@ -2,9 +2,9 @@
 
 The aim of this project is to scrape linkedin profile of candidates
 
-**************For this you need a linkedin recruiter mode!************
+For this you need a linkedin recruiter mode!
 
-The code will give you ecerything related to the candidates profile i.e.:
+The code will give you everything related to the candidates profile i.e.:
 
 1. First Name
 2. Last Name
